@@ -6,6 +6,6 @@
 
 # MultIHeaTS
 
-The MultIHeaTS repositery can be found on gitlab:
+The MultIHeaTS repository can be found on gitlab:
 
 https://gitlab.dsi.universite-paris-saclay.fr/cyril.mergny/multiheats
